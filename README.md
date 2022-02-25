@@ -1,0 +1,2 @@
+# MasterBlog
+Un simple blog
