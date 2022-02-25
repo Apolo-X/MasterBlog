@@ -16,3 +16,9 @@ main {
 #container h1{
     font-size: 40px;
 }
+
+#cabecera{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: chocolate;
+    background-color: aquamarine;
+}
